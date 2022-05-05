@@ -1,0 +1,11 @@
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\ArDaVaN81\Desktop\MyCodes\یادگیری\C#\Project2\Project2\obj\Debug\Project2.pdb
