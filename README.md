@@ -1,2 +1,2 @@
 # pizza_store
-Pizza Stor Application By .NET
+Pizza Store Application By .NET
